@@ -1,0 +1,12 @@
+# Site settings
+title: > 
+  MeetRob.com | Rob Adams | Software Engineer
+description: > # this means to ignore newlines until "baseurl:"
+  Personal site and notebook of Rob Adams. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.meetrob.com" # the base hostname & protocol for your site
+linkedin_username: robertmarkadams
+github_username:  robertadams
+
+# Build settings
+markdown: kramdown
